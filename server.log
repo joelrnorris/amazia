@@ -11827,3 +11827,40 @@ Caused by: java.lang.NullPointerException
 2013-08-03 21:31:16 [INFO] Saving chunks for level 'amazia'/Overworld
 2013-08-03 21:31:16 [INFO] Saving chunks for level 'amazia'/Nether
 2013-08-03 21:31:16 [INFO] Saving chunks for level 'amazia'/The End
+2013-10-22 18:28:46 [INFO] Starting minecraft server version 1.5.2
+2013-10-22 18:28:46 [INFO] Loading properties
+2013-10-22 18:28:46 [INFO] Default game type: CREATIVE
+2013-10-22 18:28:46 [INFO] Generating keypair
+2013-10-22 18:28:47 [INFO] Starting Minecraft server on 192.168.1.185:25565
+2013-10-22 18:28:47 [INFO] Preparing level "amazia"
+2013-10-22 18:28:47 [INFO] Preparing start region for level 0
+2013-10-22 18:28:48 [INFO] Preparing spawn area: 15%
+2013-10-22 18:28:50 [INFO] Preparing spawn area: 36%
+2013-10-22 18:28:51 [INFO] Preparing spawn area: 96%
+2013-10-22 18:28:51 [INFO] Done (3.579s)! For help, type "help" or "?"
+2013-10-22 18:33:22 [INFO] PizzaForest[/192.168.1.185:49537] logged in with entity id 486 at (-3708.743401713887, 61.91562384215143, 926.4065742766957)
+2013-10-22 18:33:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-22 18:48:06 [INFO] PizzaForest lost connection: disconnect.quitting
+2013-10-22 18:48:45 [INFO] PizzaForest[/192.168.1.185:49568] logged in with entity id 3048 at (-3681.699999988079, 63.0, 974.6999999880791)
+2013-10-22 18:50:48 [INFO] PizzaForest lost connection: disconnect.quitting
+2013-10-22 18:50:50 [INFO] /192.168.1.185:49576 lost connection
+2013-10-22 18:51:36 [INFO] PizzaForest[/192.168.1.185:49579] logged in with entity id 3915 at (-3681.699999988079, 63.0, 973.3000000119209)
+2013-10-22 19:00:59 [INFO] H3LL0_K1TTY[/192.168.1.7:49172] logged in with entity id 5936 at (38.30000001192089, 72.0, 182.0633370189043)
+2013-10-22 19:01:25 [INFO] [H3LL0_K1TTY: Teleported H3LL0_K1TTY to PizzaForest]
+2013-10-22 19:07:33 [INFO] /192.168.1.219:1875 lost connection
+2013-10-22 19:10:11 [INFO] H3LL0_K1TTY lost connection: disconnect.quitting
+2013-10-22 19:20:14 [INFO] H3LL0_K1TTY[/192.168.1.7:49197] logged in with entity id 232102 at (-3708.109780365072, 346.409114192948, 966.0324405295548)
+2013-10-22 19:45:33 [INFO] [H3LL0_K1TTY: Set the time to 0]
+2013-10-22 19:59:48 [INFO] <H3LL0_K1TTY> h u g tt            t6tttttuhhgh   g/
+2013-10-22 20:07:54 [INFO] H3LL0_K1TTY lost connection: disconnect.genericReason
+2013-10-22 20:18:31 [INFO] PizzaForest lost connection: disconnect.quitting
+2013-10-22 20:46:40 [INFO] Stopping the server
+2013-10-22 20:46:40 [INFO] Stopping server
+2013-10-22 20:46:40 [INFO] Saving players
+2013-10-22 20:46:40 [INFO] Closing listening thread
+2013-10-22 20:46:40 [INFO] Saving worlds
+2013-10-22 20:46:40 [INFO] Saving chunks for level 'amazia'/Overworld
+2013-10-22 20:46:40 [INFO] Saving chunks for level 'amazia'/Nether
+2013-10-22 20:46:40 [INFO] Saving chunks for level 'amazia'/The End
+2013-10-22 20:46:41 [INFO] Stopping server
+2013-10-22 20:46:41 [INFO] Saving players
