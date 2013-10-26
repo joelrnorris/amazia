@@ -11894,3 +11894,29 @@ Caused by: java.lang.NullPointerException
 2013-10-22 21:41:40 [INFO] Closing listening thread
 2013-10-22 21:41:40 [INFO] Saving chunks for level 'amazia'/Nether
 2013-10-22 21:41:40 [INFO] Saving chunks for level 'amazia'/The End
+2013-10-25 17:03:44 [INFO] Starting minecraft server version 1.6.4
+2013-10-25 17:03:44 [INFO] Loading properties
+2013-10-25 17:03:44 [INFO] Default game type: CREATIVE
+2013-10-25 17:03:44 [INFO] Generating keypair
+2013-10-25 17:03:44 [INFO] Starting Minecraft server on 192.168.1.185:25565
+2013-10-25 17:03:45 [INFO] Preparing level "amazia"
+2013-10-25 17:03:45 [INFO] Preparing start region for level 0
+2013-10-25 17:03:46 [INFO] Preparing spawn area: 6%
+2013-10-25 17:03:47 [INFO] Preparing spawn area: 54%
+2013-10-25 17:03:48 [INFO] Done (2.913s)! For help, type "help" or "?"
+2013-10-25 17:21:55 [SEVERE] Reached end of stream for /192.168.1.185
+2013-10-25 17:21:55 [SEVERE] Reached end of stream for /192.168.1.185
+2013-10-25 17:22:02 [INFO] Disconnecting PizzaForest [/192.168.1.185:60153]: Outdated client!
+2013-10-25 17:22:02 [SEVERE] Reached end of stream for /192.168.1.185
+2013-10-25 17:22:06 [SEVERE] Reached end of stream for /192.168.1.185
+2013-10-25 17:22:06 [SEVERE] Reached end of stream for /192.168.1.185
+2013-10-25 17:23:22 [INFO] Disconnecting /192.168.1.219:1798: Protocol error
+2013-10-25 17:23:22 [INFO] /192.168.1.219:1798 lost connection
+2013-10-25 17:24:45 [INFO] Stopping the server
+2013-10-25 17:24:45 [INFO] Stopping server
+2013-10-25 17:24:45 [INFO] Saving players
+2013-10-25 17:24:45 [INFO] Closing listening thread
+2013-10-25 17:24:45 [INFO] Saving worlds
+2013-10-25 17:24:45 [INFO] Saving chunks for level 'amazia'/Overworld
+2013-10-25 17:24:45 [INFO] Saving chunks for level 'amazia'/Nether
+2013-10-25 17:24:45 [INFO] Saving chunks for level 'amazia'/The End
