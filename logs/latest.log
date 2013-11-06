@@ -1,81 +1,30 @@
-[17:08:15] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[17:08:15] [Server thread/INFO]: Loading properties
-[17:08:15] [Server thread/INFO]: Default game type: CREATIVE
-[17:08:15] [Server thread/INFO]: Generating keypair
-[17:08:15] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
-[17:08:15] [Server thread/INFO]: Preparing level "amazia"
-[17:08:15] [Server thread/INFO]: Preparing start region for level 0
-[17:08:16] [Server thread/ERROR]: Chunk file at -12,1 is in the wrong location; relocating. (Expected -12, 1, got -25, 9)
-[17:08:16] [Server thread/INFO]: Preparing spawn area: 10%
-[17:08:17] [Server thread/INFO]: Preparing spawn area: 90%
-[17:08:17] [Server thread/INFO]: Done (2.341s)! For help, type "help" or "?"
-[17:11:03] [User Authenticator #1/INFO]: UUID of player PizzaForest is 85ccbe566b404d7b95c0923a698ccf50
-[17:11:03] [Server thread/INFO]: PizzaForest[/192.168.1.185:49254] logged in with entity id 583 at (-524.9035057658045, 101.0, 303.3953310749126)
-[17:11:03] [Server thread/INFO]: PizzaForest joined the game
-[17:11:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3492ms behind, skipping 69 tick(s)
-[17:11:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4408ms behind, skipping 88 tick(s)
-[17:14:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2265ms behind, skipping 45 tick(s)
-[17:14:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3372ms behind, skipping 67 tick(s)
-[17:47:32] [Server thread/ERROR]: Wrong location! xh['Villager'/18598, l='amazia', x=-387.34, y=64.00, z=143.90]
-[17:47:32] [Server thread/ERROR]: Wrong location! xh['Villager'/18600, l='amazia', x=-388.16, y=64.00, z=143.96]
-[17:47:32] [Server thread/ERROR]: Wrong location! xh['Villager'/18602, l='amazia', x=-388.70, y=64.00, z=143.91]
-[17:47:32] [Server thread/ERROR]: Wrong location! xh['Villager'/18623, l='amazia', x=-388.65, y=64.00, z=143.85]
-[17:48:21] [Server thread/ERROR]: Wrong location! xh['Villager'/19075, l='amazia', x=-387.34, y=64.00, z=143.90]
-[17:48:21] [Server thread/ERROR]: Wrong location! xh['Villager'/19077, l='amazia', x=-388.16, y=64.00, z=143.96]
-[17:48:21] [Server thread/ERROR]: Wrong location! xh['Villager'/19079, l='amazia', x=-388.70, y=64.00, z=143.91]
-[17:48:21] [Server thread/ERROR]: Wrong location! xh['Villager'/19100, l='amazia', x=-388.65, y=64.00, z=143.85]
-[17:50:53] [Server thread/ERROR]: Wrong location! xh['Villager'/20512, l='amazia', x=-387.34, y=64.00, z=143.90]
-[17:50:53] [Server thread/ERROR]: Wrong location! xh['Villager'/20514, l='amazia', x=-388.16, y=64.00, z=143.96]
-[17:50:53] [Server thread/ERROR]: Wrong location! xh['Villager'/20516, l='amazia', x=-388.70, y=64.00, z=143.91]
-[17:50:53] [Server thread/ERROR]: Wrong location! xh['Villager'/20537, l='amazia', x=-388.65, y=64.00, z=143.85]
-[17:51:38] [Server thread/ERROR]: Wrong location! xh['Villager'/21323, l='amazia', x=-387.34, y=64.00, z=143.90]
-[17:51:38] [Server thread/ERROR]: Wrong location! xh['Villager'/21325, l='amazia', x=-388.16, y=64.00, z=143.96]
-[17:51:38] [Server thread/ERROR]: Wrong location! xh['Villager'/21327, l='amazia', x=-388.70, y=64.00, z=143.91]
-[17:51:38] [Server thread/ERROR]: Wrong location! xh['Villager'/21348, l='amazia', x=-388.65, y=64.00, z=143.85]
-[17:51:52] [Server thread/ERROR]: Wrong location! xh['Villager'/21626, l='amazia', x=-387.34, y=64.00, z=143.90]
-[17:51:52] [Server thread/ERROR]: Wrong location! xh['Villager'/21628, l='amazia', x=-388.16, y=64.00, z=143.96]
-[17:51:52] [Server thread/ERROR]: Wrong location! xh['Villager'/21630, l='amazia', x=-388.70, y=64.00, z=143.91]
-[17:51:52] [Server thread/ERROR]: Wrong location! xh['Villager'/21651, l='amazia', x=-388.65, y=64.00, z=143.85]
-[19:13:44] [Server thread/ERROR]: Wrong location! xh['Villager'/44465, l='amazia', x=-387.34, y=64.00, z=143.90]
-[19:13:44] [Server thread/ERROR]: Wrong location! xh['Villager'/44467, l='amazia', x=-388.16, y=64.00, z=143.96]
-[19:13:44] [Server thread/ERROR]: Wrong location! xh['Villager'/44469, l='amazia', x=-388.70, y=64.00, z=143.91]
-[19:13:44] [Server thread/ERROR]: Wrong location! xh['Villager'/44490, l='amazia', x=-388.65, y=64.00, z=143.85]
-[19:15:35] [Server thread/ERROR]: Wrong location! xh['Villager'/45061, l='amazia', x=-387.34, y=64.00, z=143.90]
-[19:15:35] [Server thread/ERROR]: Wrong location! xh['Villager'/45063, l='amazia', x=-388.16, y=64.00, z=143.96]
-[19:15:35] [Server thread/ERROR]: Wrong location! xh['Villager'/45065, l='amazia', x=-388.70, y=64.00, z=143.91]
-[19:15:35] [Server thread/ERROR]: Wrong location! xh['Villager'/45086, l='amazia', x=-388.65, y=64.00, z=143.85]
-[19:18:19] [Server thread/ERROR]: Wrong location! xh['Villager'/47312, l='amazia', x=-387.30, y=64.00, z=143.44]
-[19:18:19] [Server thread/ERROR]: Wrong location! xh['Villager'/47330, l='amazia', x=-387.30, y=64.00, z=143.96]
-[19:18:19] [Server thread/ERROR]: Wrong location! xh['Villager'/47332, l='amazia', x=-387.30, y=64.00, z=143.90]
-[19:18:19] [Server thread/ERROR]: Wrong location! xh['Villager'/47334, l='amazia', x=-387.30, y=64.00, z=143.75]
-[19:18:19] [Server thread/ERROR]: Wrong location! xh['Villager'/47340, l='amazia', x=-387.34, y=64.00, z=143.90]
-[19:18:19] [Server thread/ERROR]: Wrong location! xh['Villager'/47341, l='amazia', x=-387.30, y=64.00, z=143.97]
-[19:18:19] [Server thread/ERROR]: Wrong location! xh['Villager'/47342, l='amazia', x=-388.16, y=64.00, z=143.96]
-[19:18:19] [Server thread/ERROR]: Wrong location! xh['Villager'/47343, l='amazia', x=-387.30, y=64.00, z=143.31]
-[19:18:19] [Server thread/ERROR]: Wrong location! xh['Villager'/47344, l='amazia', x=-388.70, y=64.00, z=143.91]
-[19:18:19] [Server thread/ERROR]: Wrong location! xh['Villager'/47365, l='amazia', x=-388.65, y=64.00, z=143.85]
-[19:19:20] [Server thread/ERROR]: Wrong location! xh['Villager'/48126, l='amazia', x=-387.30, y=64.00, z=143.44]
-[19:19:20] [Server thread/ERROR]: Wrong location! xh['Villager'/48144, l='amazia', x=-387.30, y=64.00, z=143.96]
-[19:19:20] [Server thread/ERROR]: Wrong location! xh['Villager'/48146, l='amazia', x=-387.30, y=64.00, z=143.90]
-[19:19:20] [Server thread/ERROR]: Wrong location! xh['Villager'/48148, l='amazia', x=-387.30, y=64.00, z=143.75]
-[19:19:20] [Server thread/ERROR]: Wrong location! xh['Villager'/48154, l='amazia', x=-387.34, y=64.00, z=143.90]
-[19:19:20] [Server thread/ERROR]: Wrong location! xh['Villager'/48155, l='amazia', x=-387.30, y=64.00, z=143.97]
-[19:19:20] [Server thread/ERROR]: Wrong location! xh['Villager'/48156, l='amazia', x=-388.16, y=64.00, z=143.96]
-[19:19:20] [Server thread/ERROR]: Wrong location! xh['Villager'/48157, l='amazia', x=-387.30, y=64.00, z=143.31]
-[19:19:20] [Server thread/ERROR]: Wrong location! xh['Villager'/48158, l='amazia', x=-388.70, y=64.00, z=143.91]
-[19:19:20] [Server thread/ERROR]: Wrong location! xh['Villager'/48179, l='amazia', x=-388.65, y=64.00, z=143.85]
-[19:21:46] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:21:46] [Server thread/INFO]: PizzaForest left the game
-[19:21:58] [Server thread/INFO]: Stopping the server
-[19:21:58] [Server thread/INFO]: Stopping server
-[19:21:58] [Server thread/INFO]: Saving players
-[19:21:58] [Server thread/INFO]: Saving worlds
-[19:21:58] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[19:21:58] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
-[19:21:58] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
-[19:21:59] [Server Shutdown Thread/INFO]: Stopping server
-[19:21:59] [Server Shutdown Thread/INFO]: Saving players
-[19:21:59] [Server Shutdown Thread/INFO]: Saving worlds
-[19:21:59] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[19:21:59] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Nether
-[19:21:59] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/The End
+[07:06:17] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[07:06:17] [Server thread/INFO]: Loading properties
+[07:06:17] [Server thread/INFO]: Default game type: CREATIVE
+[07:06:17] [Server thread/INFO]: Generating keypair
+[07:06:17] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
+[07:06:17] [Server thread/INFO]: Preparing level "amazia"
+[07:06:17] [Server thread/INFO]: Preparing start region for level 0
+[07:06:18] [Server thread/ERROR]: Chunk file at -12,1 is in the wrong location; relocating. (Expected -12, 1, got -25, 9)
+[07:06:18] [Server thread/INFO]: Preparing spawn area: 9%
+[07:06:19] [Server thread/INFO]: Preparing spawn area: 87%
+[07:06:20] [Server thread/INFO]: Done (2.424s)! For help, type "help" or "?"
+[07:07:03] [User Authenticator #1/INFO]: UUID of player PizzaForest is 85ccbe566b404d7b95c0923a698ccf50
+[07:07:03] [Server thread/INFO]: PizzaForest[/192.168.1.185:50219] logged in with entity id 581 at (-517.147644693639, 113.0, 319.67812487743447)
+[07:07:03] [Server thread/INFO]: PizzaForest joined the game
+[07:07:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2874ms behind, skipping 57 tick(s)
+[07:33:24] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[07:33:24] [Server thread/INFO]: PizzaForest left the game
+[07:33:34] [Server thread/INFO]: Stopping the server
+[07:33:34] [Server thread/INFO]: Stopping server
+[07:33:34] [Server thread/INFO]: Saving players
+[07:33:34] [Server thread/INFO]: Saving worlds
+[07:33:34] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[07:33:34] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
+[07:33:34] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
+[07:33:35] [Server Shutdown Thread/INFO]: Stopping server
+[07:33:35] [Server Shutdown Thread/INFO]: Saving players
+[07:33:35] [Server Shutdown Thread/INFO]: Saving worlds
+[07:33:35] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[07:33:35] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Nether
+[07:33:35] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/The End
