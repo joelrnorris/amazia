@@ -1,77 +1,45 @@
-[16:51:00] [Server thread/INFO]: Starting minecraft server version 1.7.5
-[16:51:00] [Server thread/INFO]: Loading properties
-[16:51:00] [Server thread/INFO]: Default game type: CREATIVE
-[16:51:00] [Server thread/INFO]: Generating keypair
-[16:51:00] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
-[16:51:00] [Server thread/INFO]: Preparing level "amazia"
-[16:51:01] [Server thread/INFO]: Preparing start region for level 0
-[16:51:02] [Server thread/INFO]: Preparing spawn area: 0%
-[16:51:03] [Server thread/INFO]: Preparing spawn area: 27%
-[16:51:04] [Server thread/INFO]: Preparing spawn area: 91%
-[16:51:04] [Server thread/INFO]: Done (3.275s)! For help, type "help" or "?"
-[16:51:38] [Server thread/INFO]: GameProfile{id='null', name='H3LL0_K1TTY'} (/192.168.1.219:1284) lost connection: Disconnected
-[16:52:01] [Server thread/INFO]: GameProfile{id='null', name='H3LL0_K1TTY'} (/192.168.1.219:1287) lost connection: Disconnected
-[16:54:19] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b846f4e48ab217e02bf822f9d
-[16:54:19] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1366] logged in with entity id 465 at (-451.44703945327024, 63.0, 71.64198892131667)
-[16:54:19] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[16:54:36] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[17:03:09] [User Authenticator #2/INFO]: UUID of player PedalTen69 is 26e0ca17dce44e08a6512e5241f24e97
-[17:03:09] [Server thread/INFO]: Disconnecting GameProfile{id='26e0ca17dce44e08a6512e5241f24e97', name='PedalTen69'} (/192.168.1.185:49605): You are not white-listed on this server!
-[17:03:09] [Server thread/INFO]: GameProfile{id='26e0ca17dce44e08a6512e5241f24e97', name='PedalTen69'} (/192.168.1.185:49605) lost connection: You are not white-listed on this server!
-[17:05:24] [User Authenticator #3/INFO]: UUID of player PedalTen69 is 26e0ca17dce44e08a6512e5241f24e97
-[17:05:24] [Server thread/INFO]: Disconnecting GameProfile{id='26e0ca17dce44e08a6512e5241f24e97', name='PedalTen69'} (/192.168.1.185:49631): You are not white-listed on this server!
-[17:05:24] [Server thread/INFO]: GameProfile{id='26e0ca17dce44e08a6512e5241f24e97', name='PedalTen69'} (/192.168.1.185:49631) lost connection: You are not white-listed on this server!
-[17:06:51] [Server thread/INFO]: Added pedalten69 to the whitelist
-[17:06:58] [User Authenticator #4/INFO]: UUID of player PedalTen69 is 26e0ca17dce44e08a6512e5241f24e97
-[17:06:58] [Server thread/INFO]: PedalTen69[/192.168.1.185:49700] logged in with entity id 7479 at (0.5, -1.0, 2.5)
-[17:06:58] [Server thread/INFO]: PedalTen69 joined the game
-[17:07:05] [Server thread/INFO]: PedalTen69 fell out of the world
-[17:07:36] [Server thread/INFO]: Opped pedalten69
-[17:07:48] [Server thread/INFO]: [PedalTen69: Teleported PedalTen69 to H3LL0_K1TTY]
-[17:08:10] [Server thread/INFO]: PedalTen69 has just earned the achievement [Taking Inventory]
-[17:10:58] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to PedalTen69]
-[17:14:37] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to PedalTen69]
-[17:16:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3026ms behind, skipping 60 tick(s)
-[17:18:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13912ms behind, skipping 278 tick(s)
-[17:19:10] [Server thread/INFO]: PedalTen69 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Broken pipe], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:19:10] [Server thread/INFO]: PedalTen69 left the game
-[17:19:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7624ms behind, skipping 152 tick(s)
-[17:19:29] [User Authenticator #5/INFO]: UUID of player PedalTen69 is 26e0ca17dce44e08a6512e5241f24e97
-[17:19:30] [Server thread/INFO]: PedalTen69[/192.168.1.185:49727] logged in with entity id 16578 at (-399.51960864460443, 72.90979162767445, 416.20115523107063)
-[17:19:30] [Server thread/INFO]: PedalTen69 joined the game
-[17:19:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10132ms behind, skipping 202 tick(s)
-[17:20:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5271ms behind, skipping 105 tick(s)
-[18:08:30] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to PedalTen69]
-[18:20:14] [Server thread/INFO]: <PedalTen69> e
-[18:23:12] [Server thread/INFO]: <PedalTen69> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww w
-[18:36:36] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to PedalTen69]
-[18:42:00] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to PedalTen69]
-[18:43:14] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to PedalTen69]
-[18:45:38] [Server thread/INFO]: [PedalTen69: Teleported PedalTen69 to H3LL0_K1TTY]
-[18:46:07] [Server thread/INFO]: [PedalTen69: Teleported PedalTen69 to H3LL0_K1TTY]
-[18:52:20] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to PedalTen69]
-[18:53:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2950ms behind, skipping 59 tick(s)
-[19:16:22] [Server thread/INFO]: [PedalTen69: Toggled downfall]
-[19:16:32] [Server thread/INFO]: [PedalTen69: Set the time to 0]
-[19:16:43] [Server thread/INFO]: [PedalTen69: Set the time to 0]
-[19:16:47] [Server thread/INFO]: [PedalTen69: Toggled downfall]
-[19:16:50] [Server thread/INFO]: [PedalTen69: Toggled downfall]
-[19:20:15] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to PedalTen69]
-[19:46:30] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:46:30] [Server thread/INFO]: H3LL0_K1TTY left the game
-[19:48:51] [Server thread/INFO]: PedalTen69 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:48:51] [Server thread/INFO]: PedalTen69 left the game
-[19:49:40] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[19:49:52] [Server thread/INFO]: Stopping the server
-[19:49:53] [Server thread/INFO]: Stopping server
-[19:49:53] [Server thread/INFO]: Saving players
-[19:49:53] [Server thread/INFO]: Saving worlds
-[19:49:53] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[19:49:53] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
-[19:49:53] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
-[19:49:53] [Server Shutdown Thread/INFO]: Stopping server
-[19:49:53] [Server Shutdown Thread/INFO]: Saving players
-[19:49:53] [Server Shutdown Thread/INFO]: Saving worlds
-[19:49:53] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[19:49:53] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Nether
-[19:49:53] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/The End
+[20:07:06] [Server thread/INFO]: Starting minecraft server version 1.7.5
+[20:07:06] [Server thread/INFO]: Loading properties
+[20:07:06] [Server thread/INFO]: Default game type: CREATIVE
+[20:07:06] [Server thread/INFO]: Generating keypair
+[20:07:06] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
+[20:07:07] [Server thread/INFO]: Preparing level "amazia"
+[20:07:07] [Server thread/INFO]: Preparing start region for level 0
+[20:07:08] [Server thread/INFO]: Preparing spawn area: 0%
+[20:07:09] [Server thread/INFO]: Preparing spawn area: 15%
+[20:07:10] [Server thread/INFO]: Preparing spawn area: 48%
+[20:07:11] [Server thread/INFO]: Preparing spawn area: 77%
+[20:07:12] [Server thread/INFO]: Preparing spawn area: 99%
+[20:07:12] [Server thread/INFO]: Done (5.234s)! For help, type "help" or "?"
+[20:08:39] [User Authenticator #1/INFO]: UUID of player PedalTen69 is 26e0ca17dce44e08a6512e5241f24e97
+[20:08:39] [Server thread/INFO]: PedalTen69[/192.168.1.185:49183] logged in with entity id 512 at (-139.91835802421355, 66.20000004768372, -181.2160368492959)
+[20:08:39] [Server thread/INFO]: PedalTen69 joined the game
+[20:08:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2700ms behind, skipping 54 tick(s)
+[20:11:03] [Server thread/INFO]: [PedalTen69: Set the time to 0]
+[20:22:08] [Server thread/INFO]: [PedalTen69: Set the time to 0]
+[20:29:46] [Server thread/INFO]: [PedalTen69: Set the time to 0]
+[20:59:40] [User Authenticator #2/INFO]: UUID of player H3LL0_K1TTY is 95957e6b846f4e48ab217e02bf822f9d
+[20:59:40] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:3361] logged in with entity id 13029 at (-146.69999998807907, 66.20000004768372, -186.69999998807907)
+[20:59:40] [Server thread/INFO]: H3LL0_K1TTY joined the game
+[21:31:44] [Server thread/INFO]: [PedalTen69: Set the time to 0]
+[21:35:58] [Server thread/INFO]: [PedalTen69: Set the time to 0]
+[21:36:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2259ms behind, skipping 45 tick(s)
+[21:37:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8794ms behind, skipping 175 tick(s)
+[21:37:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2044ms behind, skipping 40 tick(s)
+[21:39:11] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:39:11] [Server thread/INFO]: H3LL0_K1TTY left the game
+[21:39:35] [Server thread/INFO]: PedalTen69 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:39:35] [Server thread/INFO]: PedalTen69 left the game
+[21:40:28] [Server thread/INFO]: Stopping the server
+[21:40:28] [Server thread/INFO]: Stopping server
+[21:40:28] [Server thread/INFO]: Saving players
+[21:40:28] [Server thread/INFO]: Saving worlds
+[21:40:28] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[21:40:28] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
+[21:40:28] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
+[21:40:29] [Server Shutdown Thread/INFO]: Stopping server
+[21:40:29] [Server Shutdown Thread/INFO]: Saving players
+[21:40:29] [Server Shutdown Thread/INFO]: Saving worlds
+[21:40:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[21:40:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Nether
+[21:40:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/The End
