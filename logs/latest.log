@@ -1,37 +1,29 @@
-[17:18:10] [Server thread/INFO]: Starting minecraft server version 1.7.5
-[17:18:10] [Server thread/INFO]: Loading properties
-[17:18:10] [Server thread/INFO]: Default game type: CREATIVE
-[17:18:10] [Server thread/INFO]: Generating keypair
-[17:18:11] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
-[17:18:11] [Server thread/INFO]: Preparing level "amazia"
-[17:18:11] [Server thread/INFO]: Preparing start region for level 0
-[17:18:12] [Server thread/INFO]: Preparing spawn area: 0%
-[17:18:13] [Server thread/INFO]: Preparing spawn area: 26%
-[17:18:14] [Server thread/INFO]: Preparing spawn area: 90%
-[17:18:14] [Server thread/INFO]: Done (3.417s)! For help, type "help" or "?"
-[17:18:25] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b846f4e48ab217e02bf822f9d
-[17:18:25] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.185:49186] logged in with entity id 471 at (530.6999999880791, 92.47992869135886, -87.69999998807904)
-[17:18:25] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[17:18:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2001ms behind, skipping 40 tick(s)
-[17:28:19] [User Authenticator #2/INFO]: UUID of player H3LL0_K1TTY is 95957e6b846f4e48ab217e02bf822f9d
-[17:28:19] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1098] logged in with entity id 58659 at (382.6999999880791, 338.26169879483194, -34.300000011921)
-[17:28:19] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[17:28:20] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:28:20] [Server thread/INFO]: H3LL0_K1TTY left the game
-[17:28:42] [Server thread/INFO]: GameProfile{id='null', name='H3LL0_K1TTY'} (/192.168.1.185:49200) lost connection: Disconnected
-[17:29:29] [Server thread/INFO]: GameProfile{id='null', name='H3LL0_K1TTY'} (/192.168.1.185:49206) lost connection: Disconnected
-[18:20:09] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:20:09] [Server thread/INFO]: H3LL0_K1TTY left the game
-[18:23:19] [Server thread/INFO]: Stopping the server
-[18:23:19] [Server thread/INFO]: Stopping server
-[18:23:19] [Server thread/INFO]: Saving players
-[18:23:19] [Server thread/INFO]: Saving worlds
-[18:23:19] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[18:23:19] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
-[18:23:19] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
-[18:23:19] [Server Shutdown Thread/INFO]: Stopping server
-[18:23:19] [Server Shutdown Thread/INFO]: Saving players
-[18:23:19] [Server Shutdown Thread/INFO]: Saving worlds
-[18:23:19] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[18:23:19] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Nether
-[18:23:19] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/The End
+[15:28:55] [Server thread/INFO]: Starting minecraft server version 1.7.5
+[15:28:55] [Server thread/INFO]: Loading properties
+[15:28:55] [Server thread/INFO]: Default game type: CREATIVE
+[15:28:55] [Server thread/INFO]: Generating keypair
+[15:28:55] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
+[15:28:55] [Server thread/INFO]: Preparing level "amazia"
+[15:28:56] [Server thread/INFO]: Preparing start region for level 0
+[15:28:57] [Server thread/INFO]: Preparing spawn area: 3%
+[15:28:58] [Server thread/INFO]: Preparing spawn area: 51%
+[15:28:58] [Server thread/INFO]: Done (2.876s)! For help, type "help" or "?"
+[15:29:46] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b846f4e48ab217e02bf822f9d
+[15:29:46] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.185:50948] logged in with entity id 471 at (444.4538217952698, 98.74070703008368, -28.57158038954414)
+[15:29:46] [Server thread/INFO]: H3LL0_K1TTY joined the game
+[15:29:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2575ms behind, skipping 51 tick(s)
+[16:36:50] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:36:50] [Server thread/INFO]: H3LL0_K1TTY left the game
+[16:41:39] [Server thread/INFO]: Stopping the server
+[16:41:39] [Server thread/INFO]: Stopping server
+[16:41:39] [Server thread/INFO]: Saving players
+[16:41:39] [Server thread/INFO]: Saving worlds
+[16:41:39] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[16:41:39] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
+[16:41:39] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
+[16:41:39] [Server Shutdown Thread/INFO]: Stopping server
+[16:41:39] [Server Shutdown Thread/INFO]: Saving players
+[16:41:39] [Server Shutdown Thread/INFO]: Saving worlds
+[16:41:39] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[16:41:39] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Nether
+[16:41:39] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/The End
