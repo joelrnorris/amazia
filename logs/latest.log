@@ -1,35 +1,53 @@
-[11:13:13] [Server thread/INFO]: Starting minecraft server version 1.7.5
-[11:13:13] [Server thread/INFO]: Loading properties
-[11:13:13] [Server thread/INFO]: Default game type: CREATIVE
-[11:13:13] [Server thread/INFO]: Generating keypair
-[11:13:13] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
-[11:13:13] [Server thread/INFO]: Preparing level "amazia"
-[11:13:14] [Server thread/INFO]: Preparing start region for level 0
-[11:13:15] [Server thread/INFO]: Preparing spawn area: 0%
-[11:13:16] [Server thread/INFO]: Preparing spawn area: 55%
-[11:13:17] [Server thread/INFO]: Done (3.019s)! For help, type "help" or "?"
-[11:23:08] [User Authenticator #1/INFO]: UUID of player PizzaForest is 85ccbe566b404d7b95c0923a698ccf50
-[11:23:08] [Server thread/INFO]: PizzaForest[/192.168.1.185:49300] logged in with entity id 472 at (1891.434745799744, 81.1522683154103, -35.62337419886866)
-[11:23:08] [Server thread/INFO]: PizzaForest joined the game
-[11:23:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2929ms behind, skipping 58 tick(s)
-[11:31:08] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[11:31:08] [Server thread/INFO]: PizzaForest left the game
-[11:31:17] [User Authenticator #2/INFO]: UUID of player PizzaForest is 85ccbe566b404d7b95c0923a698ccf50
-[11:31:17] [Server thread/INFO]: PizzaForest[/192.168.1.185:49318] logged in with entity id 2251 at (1905.9873282682465, 62.59553318917741, -23.36852936459981)
-[11:31:17] [Server thread/INFO]: PizzaForest joined the game
-[11:31:41] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[11:31:41] [Server thread/INFO]: PizzaForest left the game
-[11:31:45] [User Authenticator #3/INFO]: UUID of player PizzaForest is 85ccbe566b404d7b95c0923a698ccf50
-[11:31:45] [Server thread/INFO]: PizzaForest[/192.168.1.185:49322] logged in with entity id 2451 at (1905.9873282682465, 62.59553318917742, -23.36852936459981)
-[11:31:45] [Server thread/INFO]: PizzaForest joined the game
-[11:52:42] [Server thread/INFO]: [PizzaForest: Set the time to 6000]
-[11:57:09] [Server thread/INFO]: [PizzaForest: Toggled downfall]
-[11:58:28] [Server thread/INFO]: [PizzaForest: Set the time to 6000]
-[12:17:01] [User Authenticator #4/INFO]: UUID of player H3LL0_K1TTY is 95957e6b846f4e48ab217e02bf822f9d
-[12:17:01] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1409] logged in with entity id 188597 at (1580.7432407637684, 531.9248461071325, -289.32440411732364)
-[12:17:01] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[12:17:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2371ms behind, skipping 47 tick(s)
-[12:18:10] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to H3LL0_K1TTY]
-[12:18:20] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to PizzaForest]
-[12:38:07] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[12:38:07] [Server thread/INFO]: PizzaForest left the game
+[17:04:20] [Server thread/INFO]: Starting minecraft server version 1.7.5
+[17:04:20] [Server thread/INFO]: Loading properties
+[17:04:20] [Server thread/INFO]: Default game type: CREATIVE
+[17:04:20] [Server thread/INFO]: Generating keypair
+[17:04:21] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
+[17:04:21] [Server thread/INFO]: Preparing level "amazia"
+[17:04:21] [Server thread/INFO]: Preparing start region for level 0
+[17:04:22] [Server thread/INFO]: Preparing spawn area: 0%
+[17:04:23] [Server thread/INFO]: Preparing spawn area: 48%
+[17:04:24] [Server thread/INFO]: Done (3.043s)! For help, type "help" or "?"
+[17:04:31] [User Authenticator #1/INFO]: UUID of player PizzaForest is 85ccbe566b404d7b95c0923a698ccf50
+[17:04:31] [Server thread/INFO]: PizzaForest[/192.168.1.185:49552] logged in with entity id 459 at (1895.9924535682433, 78.3752874171225, 322.5154970898895)
+[17:04:31] [Server thread/INFO]: PizzaForest joined the game
+[17:52:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5620ms behind, skipping 112 tick(s)
+[17:53:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2240ms behind, skipping 44 tick(s)
+[17:54:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2435ms behind, skipping 48 tick(s)
+[17:59:10] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:59:10] [Server thread/INFO]: PizzaForest left the game
+[17:59:40] [User Authenticator #2/INFO]: UUID of player PizzaForest is 85ccbe566b404d7b95c0923a698ccf50
+[17:59:41] [Server thread/INFO]: PizzaForest[/192.168.1.185:49654] logged in with entity id 51707 at (2944.9048979378076, 65.08167794396181, 153.63521933835244)
+[17:59:41] [Server thread/INFO]: PizzaForest joined the game
+[17:59:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2952ms behind, skipping 59 tick(s)
+[18:23:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 58829ms behind, skipping 1176 tick(s)
+[18:23:32] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:23:32] [Server thread/INFO]: PizzaForest left the game
+[18:23:34] [Server thread/INFO]: /192.168.1.185:49704 lost connection: Disconnected
+[18:23:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2180ms behind, skipping 43 tick(s)
+[18:23:41] [User Authenticator #3/INFO]: UUID of player PizzaForest is 85ccbe566b404d7b95c0923a698ccf50
+[18:23:41] [Server thread/INFO]: PizzaForest[/192.168.1.185:49705] logged in with entity id 58444 at (2957.5194637908594, 65.38160286207325, 152.11075831670072)
+[18:23:41] [Server thread/INFO]: PizzaForest joined the game
+[18:25:27] [User Authenticator #4/INFO]: UUID of player H3LL0_K1TTY is 95957e6b846f4e48ab217e02bf822f9d
+[18:25:27] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1157] logged in with entity id 59001 at (1868.8860407091624, 68.0, 330.69999998807907)
+[18:25:27] [Server thread/INFO]: H3LL0_K1TTY joined the game
+[18:28:26] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to PizzaForest]
+[19:05:15] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:05:15] [Server thread/INFO]: PizzaForest left the game
+[19:05:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12350ms behind, skipping 247 tick(s)
+[19:05:57] [Server thread/INFO]: Kicked H3LL0_K1TTY from the game: '"time for COSMOS"'
+[19:05:57] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='"time for COSMOS"', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:05:57] [Server thread/INFO]: H3LL0_K1TTY left the game
+[19:06:43] [Server thread/INFO]: Stopping the server
+[19:06:43] [Server thread/INFO]: Stopping server
+[19:06:43] [Server thread/INFO]: Saving players
+[19:06:43] [Server thread/INFO]: Saving worlds
+[19:06:43] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[19:06:43] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
+[19:06:43] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
+[19:06:43] [Server Shutdown Thread/INFO]: Stopping server
+[19:06:43] [Server Shutdown Thread/INFO]: Saving players
+[19:06:43] [Server Shutdown Thread/INFO]: Saving worlds
+[19:06:43] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[19:06:43] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Nether
+[19:06:43] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/The End
