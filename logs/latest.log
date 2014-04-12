@@ -1,95 +1,133 @@
-[16:23:39] [Server thread/INFO]: Starting minecraft server version 1.7.7
-[16:23:39] [Server thread/INFO]: Loading properties
-[16:23:39] [Server thread/INFO]: Default game type: CREATIVE
-[16:23:39] [Server thread/INFO]: Generating keypair
-[16:23:39] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
-[16:23:41] [Server thread/INFO]: Preparing level "amazia"
-[16:23:41] [Server thread/INFO]: Preparing start region for level 0
-[16:23:42] [Server thread/INFO]: Preparing spawn area: 8%
-[16:23:43] [Server thread/INFO]: Done (1.955s)! For help, type "help" or "?"
-[16:25:43] [User Authenticator #1/INFO]: UUID of player PizzaForest is 85ccbe56-6b40-4d7b-95c0-923a698ccf50
-[16:25:43] [Server thread/INFO]: PizzaForest[/192.168.1.185:49403] logged in with entity id 458 at (2939.5, 63.0, 150.5)
-[16:25:43] [Server thread/INFO]: PizzaForest joined the game
-[16:25:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2607ms behind, skipping 52 tick(s)
-[16:28:37] [User Authenticator #2/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
-[16:28:37] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1146] logged in with entity id 1523 at (2665.1311168183825, 72.41999998688698, -77.41575036019405)
-[16:28:37] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[16:29:19] [User Authenticator #3/INFO]: UUID of player RodgerThat is 27ed66a2-99c1-4cd1-bcc4-7d109bf4ffaa
-[16:29:19] [Server thread/INFO]: RodgerThat[/192.168.1.175:49200] logged in with entity id 2152 at (2713.488938127763, 54.08734522528371, -320.0816190007623)
-[16:29:19] [Server thread/INFO]: RodgerThat joined the game
-[16:30:15] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to RodgerThat]
-[16:31:37] [Server thread/INFO]: [PizzaForest: Set the time to 0]
-[16:34:07] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to PizzaForest]
-[16:36:02] [Server thread/INFO]: RodgerThat fell out of the world
-[16:36:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2092ms behind, skipping 41 tick(s)
-[16:45:16] [Server thread/INFO]: [PizzaForest: Set the time to 0]
-[16:49:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2263ms behind, skipping 45 tick(s)
-[16:56:17] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[16:56:32] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[17:04:38] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 16000]
-[17:05:12] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[17:08:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2471ms behind, skipping 49 tick(s)
-[17:09:54] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 16000]
-[17:10:45] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[17:13:12] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 16000]
-[17:14:07] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[17:18:01] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 16000]
-[17:19:21] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[17:27:51] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 16000]
-[17:29:31] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[17:34:00] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 16000]
-[17:35:12] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[17:42:37] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 16000]
-[17:43:20] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[17:44:43] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 16000]
-[17:47:41] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 10000]
-[17:48:09] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 12000]
-[17:48:42] [Server thread/INFO]: <H3LL0_K1TTY> time set 13000
-[17:49:14] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 12000]
-[17:52:38] [Server thread/INFO]: <RodgerThat> time set
-[17:53:44] [Server thread/INFO]: <RodgerThat> time set
-[17:55:46] [Server thread/INFO]: RodgerThat lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:55:46] [Server thread/INFO]: RodgerThat left the game
-[18:02:35] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 12000]
-[18:03:07] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 16000]
-[18:03:42] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 12000]
-[18:06:02] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[18:21:49] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[18:23:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10233ms behind, skipping 204 tick(s)
-[18:51:20] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:51:20] [Server thread/INFO]: H3LL0_K1TTY left the game
-[18:51:52] [User Authenticator #4/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
-[18:51:52] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1171] logged in with entity id 94686 at (3478.6152065911033, 81.59267230635997, 241.21542126021018)
-[18:51:52] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[18:51:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2248ms behind, skipping 44 tick(s)
-[19:39:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2714ms behind, skipping 54 tick(s)
-[19:39:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3524ms behind, skipping 70 tick(s)
-[19:40:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2336ms behind, skipping 46 tick(s)
-[19:40:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3439ms behind, skipping 68 tick(s)
-[19:40:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3953ms behind, skipping 79 tick(s)
-[19:41:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2534ms behind, skipping 50 tick(s)
-[19:41:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 35728ms behind, skipping 714 tick(s)
-[19:43:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2148ms behind, skipping 42 tick(s)
-[19:43:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4198ms behind, skipping 83 tick(s)
-[19:44:59] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:45:00] [Server thread/INFO]: H3LL0_K1TTY left the game
-[19:45:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10337ms behind, skipping 206 tick(s)
-[19:45:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3164ms behind, skipping 63 tick(s)
-[19:45:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3019ms behind, skipping 60 tick(s)
-[19:46:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15551ms behind, skipping 311 tick(s)
-[19:46:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3499ms behind, skipping 69 tick(s)
-[19:46:21] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:46:24] [Server thread/INFO]: PizzaForest left the game
-[19:52:17] [Server thread/INFO]: Stopping the server
-[19:52:18] [Server thread/INFO]: Stopping server
-[19:52:19] [Server thread/INFO]: Saving players
-[19:52:19] [Server thread/INFO]: Saving worlds
-[19:52:19] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[19:52:19] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
-[19:52:19] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
-[19:52:21] [Server Shutdown Thread/INFO]: Stopping server
-[19:52:21] [Server Shutdown Thread/INFO]: Saving players
-[19:52:21] [Server Shutdown Thread/INFO]: Saving worlds
-[19:52:21] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[19:52:21] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Nether
-[19:52:21] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/The End
+[20:30:35] [Server thread/INFO]: Starting minecraft server version 1.7.7
+[20:30:35] [Server thread/INFO]: Loading properties
+[20:30:35] [Server thread/INFO]: Default game type: CREATIVE
+[20:30:35] [Server thread/INFO]: Generating keypair
+[20:30:35] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
+[20:30:35] [Server thread/INFO]: Preparing level "amazia"
+[20:30:35] [Server thread/INFO]: Preparing start region for level 0
+[20:30:36] [Server thread/INFO]: Preparing spawn area: 0%
+[20:30:37] [Server thread/INFO]: Preparing spawn area: 48%
+[20:30:38] [Server thread/INFO]: Done (3.270s)! For help, type "help" or "?"
+[20:30:41] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
+[20:30:41] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1139] logged in with entity id 459 at (3577.3585469921873, 62.0, 203.43024336353864)
+[20:30:41] [Server thread/INFO]: H3LL0_K1TTY joined the game
+[20:30:59] [User Authenticator #2/INFO]: UUID of player RodgerThat is 27ed66a2-99c1-4cd1-bcc4-7d109bf4ffaa
+[20:31:00] [Server thread/INFO]: RodgerThat[/192.168.1.175:52017] logged in with entity id 1001 at (1100.5, 64.0, -638.5)
+[20:31:00] [Server thread/INFO]: RodgerThat joined the game
+[20:31:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2602ms behind, skipping 52 tick(s)
+[20:31:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@214f223f[id=<null>,name=PizzaForest,properties={},legacy=false] (/192.168.1.185:49190) lost connection: Disconnected
+[20:31:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@1436eb76[id=<null>,name=PizzaForest,properties={},legacy=false] (/192.168.1.185:49193) lost connection: Disconnected
+[20:31:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@2628de85[id=<null>,name=PizzaForest,properties={},legacy=false] (/192.168.1.185:49194) lost connection: Disconnected
+[20:31:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@7bc09d02[id=<null>,name=PizzaForest,properties={},legacy=false] (/192.168.1.185:49195) lost connection: Disconnected
+[20:31:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@48081255[id=<null>,name=PizzaForest,properties={},legacy=false] (/192.168.1.185:49198) lost connection: Disconnected
+[20:32:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@24c535d[id=<null>,name=PizzaForest,properties={},legacy=false] (/192.168.1.185:49200) lost connection: Disconnected
+[20:32:35] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[20:40:10] [Server thread/INFO]: [RodgerThat: Set the time to 16000]
+[20:42:55] [Server thread/INFO]: [RodgerThat: Set the time to 12000]
+[20:43:40] [Server thread/INFO]: [RodgerThat: Set the time to 13000]
+[20:46:10] [Server thread/INFO]: [RodgerThat: Set the time to 16000]
+[20:46:42] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[20:52:01] [Server thread/INFO]: [RodgerThat: Set the time to 13000]
+[20:57:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4685ms behind, skipping 93 tick(s)
+[21:00:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@2602196f[id=<null>,name=PizzaForest,properties={},legacy=false] (/192.168.1.185:49253) lost connection: Disconnected
+[21:01:06] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:01:06] [Server thread/INFO]: H3LL0_K1TTY left the game
+[21:01:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@330b7f9[id=<null>,name=PizzaForest,properties={},legacy=false] (/192.168.1.185:49266) lost connection: Disconnected
+[21:02:37] [User Authenticator #3/INFO]: UUID of player PizzaForest is 85ccbe56-6b40-4d7b-95c0-923a698ccf50
+[21:02:40] [Server thread/INFO]: PizzaForest[/192.168.1.219:1260] logged in with entity id 25981 at (2948.2364877494942, 68.0, 193.32760692051005)
+[21:02:40] [Server thread/INFO]: PizzaForest joined the game
+[21:02:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6947ms behind, skipping 138 tick(s)
+[21:03:06] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:03:06] [Server thread/INFO]: PizzaForest left the game
+[21:03:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f770caa[id=<null>,name=PizzaForest,properties={},legacy=false] (/192.168.1.185:49294) lost connection: Disconnected
+[21:04:52] [User Authenticator #4/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
+[21:04:52] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1314] logged in with entity id 26999 at (3964.6233649168303, 92.0, 841.2192098231098)
+[21:04:52] [Server thread/INFO]: H3LL0_K1TTY joined the game
+[21:04:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@2df476d6[id=<null>,name=PizzaForest,properties={},legacy=false] (/192.168.1.185:49297) lost connection: Disconnected
+[21:05:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@7f39e4a3[id=<null>,name=PizzaForest,properties={},legacy=false] (/192.168.1.185:49300) lost connection: Disconnected
+[21:06:19] [User Authenticator #5/INFO]: UUID of player PizzaForest is 85ccbe56-6b40-4d7b-95c0-923a698ccf50
+[21:06:20] [Server thread/INFO]: PizzaForest[/192.168.1.185:49321] logged in with entity id 28227 at (2948.2364877494942, 68.0, 193.32760692051005)
+[21:06:20] [Server thread/INFO]: PizzaForest joined the game
+[21:12:24] [Server thread/INFO]: [PizzaForest: Set the time to 0]
+[21:12:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2776ms behind, skipping 55 tick(s)
+[21:12:53] [Server thread/INFO]: [RodgerThat: Set the time to 12000]
+[21:13:52] [Server thread/INFO]: <H3LL0_K1TTY> sun up
+[21:14:30] [Server thread/INFO]: <H3LL0_K1TTY> mornen sun
+[21:16:15] [Server thread/INFO]: [PizzaForest: Set the time to 0]
+[21:30:43] [Server thread/INFO]: [PizzaForest: Set the time to 0]
+[21:34:31] [Server thread/INFO]: RodgerThat lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: io.netty.handler.timeout.ReadTimeoutException], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:34:31] [Server thread/INFO]: RodgerThat left the game
+[21:42:25] [User Authenticator #6/INFO]: UUID of player RodgerThat is 27ed66a2-99c1-4cd1-bcc4-7d109bf4ffaa
+[21:42:25] [Server thread/INFO]: RodgerThat[/192.168.1.175:49193] logged in with entity id 68053 at (1248.3341762463708, 71.0, -925.3934064838642)
+[21:42:25] [Server thread/INFO]: RodgerThat joined the game
+[21:42:43] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[21:51:42] [Server thread/INFO]: [RodgerThat: Set the time to 16000]
+[21:57:16] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[21:57:57] [Server thread/INFO]: [RodgerThat: Set the time to 16000]
+[21:58:54] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[22:01:20] [Server thread/INFO]: [RodgerThat: Set the time to 16000]
+[22:02:04] [Server thread/INFO]: <H3LL0_K1TTY> time set 0
+[22:02:37] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[22:14:00] [Server thread/INFO]: [PizzaForest: Set the time to 0]
+[22:14:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2453ms behind, skipping 49 tick(s)
+[22:15:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2285ms behind, skipping 45 tick(s)
+[22:16:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2929ms behind, skipping 58 tick(s)
+[22:17:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3092ms behind, skipping 61 tick(s)
+[22:17:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2619ms behind, skipping 52 tick(s)
+[22:18:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2337ms behind, skipping 46 tick(s)
+[22:18:17] [Server thread/INFO]: [RodgerThat: Set the time to 16000]
+[22:18:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3136ms behind, skipping 62 tick(s)
+[22:18:40] [Server thread/INFO]: [RodgerThat: Set the time to 16000]
+[22:18:57] [Server thread/INFO]: <H3LL0_K1TTY> dgegdggffgvfgfgdgfdgdgdfxgdtdttxc
+[22:19:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 59957ms behind, skipping 1199 tick(s)
+[22:19:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2752ms behind, skipping 55 tick(s)
+[22:20:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18088ms behind, skipping 361 tick(s)
+[22:20:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2005ms behind, skipping 40 tick(s)
+[22:20:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3715ms behind, skipping 74 tick(s)
+[22:21:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7539ms behind, skipping 150 tick(s)
+[22:21:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3086ms behind, skipping 61 tick(s)
+[22:21:51] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[22:22:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7029ms behind, skipping 140 tick(s)
+[22:27:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5146ms behind, skipping 102 tick(s)
+[22:27:48] [Server thread/INFO]: [RodgerThat: Set the time to 16000]
+[22:28:54] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[22:29:10] [Server thread/INFO]: [PizzaForest: Set the time to 6000]
+[22:30:26] [Server thread/INFO]: [RodgerThat: Set the time to 16000]
+[22:30:41] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[22:30:41] [Server thread/INFO]: [PizzaForest: Set the time to 0]
+[22:34:57] [Server thread/INFO]: [PizzaForest: Set the time to 6000]
+[22:35:54] [Server thread/INFO]: PizzaForest fell out of the world
+[22:36:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2267ms behind, skipping 45 tick(s)
+[22:47:01] [Server thread/INFO]: [RodgerThat: Set the time to 16000]
+[22:49:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2825ms behind, skipping 56 tick(s)
+[22:52:01] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[22:52:18] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[22:55:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15442ms behind, skipping 308 tick(s)
+[23:08:37] [Server thread/INFO]: <H3LL0_K1TTY> time set 0
+[23:10:45] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[23:12:06] [Server thread/INFO]: H3LL0_K1TTY lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:12:06] [Server thread/INFO]: H3LL0_K1TTY left the game
+[23:12:24] [User Authenticator #7/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
+[23:12:24] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1339] logged in with entity id 171552 at (3963.300000011921, 92.0, 844.877951649804)
+[23:12:24] [Server thread/INFO]: H3LL0_K1TTY joined the game
+[23:12:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2380ms behind, skipping 47 tick(s)
+[23:13:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2062ms behind, skipping 41 tick(s)
+[23:26:37] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:26:37] [Server thread/INFO]: PizzaForest left the game
+[23:27:06] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:27:06] [Server thread/INFO]: H3LL0_K1TTY left the game
+[23:27:28] [Server thread/INFO]: RodgerThat lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:27:28] [Server thread/INFO]: RodgerThat left the game
+[23:28:29] [Server thread/INFO]: Stopping the server
+[23:28:29] [Server thread/INFO]: Stopping server
+[23:28:29] [Server thread/INFO]: Saving players
+[23:28:29] [Server thread/INFO]: Saving worlds
+[23:28:29] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[23:28:29] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
+[23:28:29] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
+[23:28:30] [Server Shutdown Thread/INFO]: Stopping server
+[23:28:30] [Server Shutdown Thread/INFO]: Saving players
+[23:28:30] [Server Shutdown Thread/INFO]: Saving worlds
+[23:28:30] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[23:28:30] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Nether
+[23:28:30] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/The End
