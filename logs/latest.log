@@ -1,56 +1,34 @@
-[07:03:48] [Server thread/INFO]: Starting minecraft server version 1.7.8
-[07:03:48] [Server thread/INFO]: Loading properties
-[07:03:48] [Server thread/INFO]: Default game type: ADVENTURE
-[07:03:48] [Server thread/INFO]: Generating keypair
-[07:03:48] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
-[07:03:49] [Server thread/INFO]: Preparing level "amazia"
-[07:03:50] [Server thread/INFO]: Preparing start region for level 0
-[07:03:52] [Server thread/INFO]: Preparing spawn area: 0%
-[07:03:53] [Server thread/INFO]: Preparing spawn area: 3%
-[07:03:54] [Server thread/INFO]: Preparing spawn area: 4%
-[07:03:55] [Server thread/INFO]: Preparing spawn area: 5%
-[07:03:56] [Server thread/INFO]: Preparing spawn area: 7%
-[07:03:57] [Server thread/INFO]: Preparing spawn area: 11%
-[07:03:58] [Server thread/INFO]: Preparing spawn area: 16%
-[07:03:59] [Server thread/INFO]: Preparing spawn area: 20%
-[07:04:00] [Server thread/INFO]: Preparing spawn area: 24%
-[07:04:01] [Server thread/INFO]: Preparing spawn area: 28%
-[07:04:02] [Server thread/INFO]: Preparing spawn area: 32%
-[07:04:03] [Server thread/INFO]: Preparing spawn area: 34%
-[07:04:04] [Server thread/INFO]: Preparing spawn area: 40%
-[07:04:05] [Server thread/INFO]: Preparing spawn area: 42%
-[07:04:07] [Server thread/INFO]: Preparing spawn area: 45%
-[07:04:08] [Server thread/INFO]: Preparing spawn area: 46%
-[07:04:09] [Server thread/INFO]: Preparing spawn area: 47%
-[07:04:10] [Server thread/INFO]: Preparing spawn area: 50%
-[07:04:11] [Server thread/INFO]: Preparing spawn area: 52%
-[07:04:12] [Server thread/INFO]: Preparing spawn area: 62%
-[07:04:13] [Server thread/INFO]: Preparing spawn area: 79%
-[07:04:14] [Server thread/INFO]: Preparing spawn area: 86%
-[07:04:15] [Server thread/INFO]: Preparing spawn area: 93%
-[07:04:16] [Server thread/INFO]: Done (26.680s)! For help, type "help" or "?"
-[07:04:26] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
-[07:04:27] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1470] logged in with entity id 540 at (-2432.5754391681885, 38.70302957653052, -597.5983431718388)
-[07:04:27] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[07:04:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3239ms behind, skipping 64 tick(s)
-[07:11:23] [User Authenticator #2/INFO]: UUID of player RodgerThat is 27ed66a2-99c1-4cd1-bcc4-7d109bf4ffaa
-[07:11:23] [Server thread/INFO]: RodgerThat[/192.168.1.15:49186] logged in with entity id 70166 at (-103.36482330349686, 62.90526276734116, 279.9872103830391)
-[07:11:23] [Server thread/INFO]: RodgerThat joined the game
-[07:11:43] [Server thread/INFO]: [RodgerThat: Teleported RodgerThat to H3LL0_K1TTY]
-[07:13:07] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[07:13:07] [Server thread/INFO]: H3LL0_K1TTY left the game
-[07:17:46] [User Authenticator #3/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
-[07:17:46] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1582] logged in with entity id 136895 at (-2437.9198025151672, 38.0, -602.6469704357605)
-[07:17:46] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[08:49:21] [Server thread/INFO]: RodgerThat lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[08:49:21] [Server thread/INFO]: RodgerThat left the game
-[09:18:33] [Server thread/INFO]: Kicked H3LL0_K1TTY from the game: '"TIEMS TO RECYCLES!!!!!!!!!!!!!!!!!!!!"'
-[09:18:34] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='"TIEMS TO RECYCLES!!!!!!!!!!!!!!!!!!!!"', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[09:18:34] [Server thread/INFO]: H3LL0_K1TTY left the game
-[09:18:35] [Server thread/INFO]: Stopping the server
-[09:18:35] [Server thread/INFO]: Stopping server
-[09:18:35] [Server thread/INFO]: Saving players
-[09:18:35] [Server thread/INFO]: Saving worlds
-[09:18:35] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[09:18:35] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
-[09:18:35] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
+[12:39:08] [Server thread/INFO]: Starting minecraft server version 1.7.8
+[12:39:08] [Server thread/INFO]: Loading properties
+[12:39:08] [Server thread/INFO]: Default game type: ADVENTURE
+[12:39:08] [Server thread/INFO]: Generating keypair
+[12:39:08] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
+[12:39:09] [Server thread/INFO]: Preparing level "amazia"
+[12:39:10] [Server thread/INFO]: Preparing start region for level 0
+[12:39:12] [Server thread/INFO]: Preparing spawn area: 0%
+[12:39:13] [Server thread/INFO]: Preparing spawn area: 3%
+[12:39:14] [Server thread/INFO]: Preparing spawn area: 6%
+[12:39:15] [Server thread/INFO]: Preparing spawn area: 10%
+[12:39:16] [Server thread/INFO]: Preparing spawn area: 20%
+[12:39:17] [Server thread/INFO]: Preparing spawn area: 41%
+[12:39:18] [Server thread/INFO]: Preparing spawn area: 54%
+[12:39:19] [Server thread/INFO]: Preparing spawn area: 83%
+[12:39:20] [Server thread/INFO]: Done (11.104s)! For help, type "help" or "?"
+[12:40:10] [User Authenticator #1/INFO]: UUID of player RodgerThat is 27ed66a2-99c1-4cd1-bcc4-7d109bf4ffaa
+[12:40:10] [Server thread/INFO]: RodgerThat[/192.168.1.15:49186] logged in with entity id 537 at (-2434.5, 63.0, -596.5)
+[12:40:10] [Server thread/INFO]: RodgerThat joined the game
+[12:54:32] [Server thread/INFO]: [RodgerThat: Toggled downfall]
+[13:47:02] [Server thread/INFO]: [RodgerThat: Set the time to 0]
+[14:04:17] [Server thread/INFO]: RodgerThat lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:04:17] [Server thread/INFO]: RodgerThat left the game
+[14:04:48] [Server thread/INFO]: Stopping the server
+[14:04:48] [Server thread/INFO]: Stopping server
+[14:04:48] [Server thread/INFO]: Saving players
+[14:04:48] [Server thread/INFO]: Saving worlds
+[14:04:48] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[14:04:48] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
+[14:04:48] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
+[14:04:49] [Server Shutdown Thread/INFO]: Stopping server
+[14:04:49] [Server Shutdown Thread/INFO]: Saving players
+[14:04:49] [Server Shutdown Thread/INFO]: Saving worlds
+[14:04:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
