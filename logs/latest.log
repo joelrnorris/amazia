@@ -1,60 +1,44 @@
-[18:41:03] [Server thread/INFO]: Starting minecraft server version 1.7.8
-[18:41:03] [Server thread/INFO]: Loading properties
-[18:41:03] [Server thread/INFO]: Default game type: ADVENTURE
-[18:41:03] [Server thread/INFO]: Generating keypair
-[18:41:03] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
-[18:41:04] [Server thread/INFO]: Preparing level "amazia"
-[18:41:04] [Server thread/INFO]: Preparing start region for level 0
-[18:41:06] [Server thread/INFO]: Preparing spawn area: 0%
-[18:41:07] [Server thread/INFO]: Preparing spawn area: 9%
-[18:41:08] [Server thread/INFO]: Preparing spawn area: 32%
-[18:41:09] [Server thread/INFO]: Preparing spawn area: 50%
-[18:41:10] [Server thread/INFO]: Preparing spawn area: 63%
-[18:41:11] [Server thread/INFO]: Preparing spawn area: 88%
-[18:41:11] [Server thread/INFO]: Done (7.878s)! For help, type "help" or "?"
-[18:45:59] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
-[18:45:59] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1203] logged in with entity id 802 at (376.8755151598982, 94.0, -262.30000001192104)
-[18:45:59] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[18:51:51] [User Authenticator #2/INFO]: UUID of player RodgerThat is 27ed66a2-99c1-4cd1-bcc4-7d109bf4ffaa
-[18:51:51] [Server thread/INFO]: RodgerThat[/192.168.1.175:49237] logged in with entity id 219213 at (373.6673732782093, 101.0, -252.6682470093016)
-[18:51:51] [Server thread/INFO]: RodgerThat joined the game
-[18:52:21] [Server thread/INFO]: [RodgerThat: Teleported RodgerThat to H3LL0_K1TTY]
-[19:11:41] [Server thread/INFO]: [RodgerThat: Teleported RodgerThat to H3LL0_K1TTY]
-[19:12:24] [Server thread/INFO]: [H3LL0_K1TTY: Teleported RodgerThat to H3LL0_K1TTY]
-[19:13:09] [Server thread/INFO]: <RodgerThat> whaaaat?
-[19:13:19] [Server thread/INFO]: <RodgerThat> HI REDBIRD!!!
-[19:15:05] [User Authenticator #3/INFO]: UUID of player PizzaForest is 85ccbe56-6b40-4d7b-95c0-923a698ccf50
-[19:15:05] [Server thread/INFO]: PizzaForest[/192.168.1.185:49257] logged in with entity id 1517862 at (-1561.2624374858108, 62.52568038772022, 506.5419636013376)
-[19:15:05] [Server thread/INFO]: PizzaForest joined the game
-[19:15:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4098ms behind, skipping 81 tick(s)
-[19:18:30] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:18:30] [Server thread/INFO]: PizzaForest left the game
-[19:20:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2593ms behind, skipping 51 tick(s)
-[19:21:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4591ms behind, skipping 91 tick(s)
-[19:22:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11482ms behind, skipping 229 tick(s)
-[19:23:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2016ms behind, skipping 40 tick(s)
-[19:25:15] [User Authenticator #4/INFO]: UUID of player PizzaForest is 85ccbe56-6b40-4d7b-95c0-923a698ccf50
-[19:25:16] [Server thread/INFO]: PizzaForest[/192.168.1.185:49403] logged in with entity id 2044302 at (-1356.453161585221, 93.40610431538215, 190.2230639161287)
-[19:25:16] [Server thread/INFO]: PizzaForest joined the game
-[19:25:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5770ms behind, skipping 115 tick(s)
-[19:26:01] [Server thread/INFO]: [PizzaForest: Set the time to 0]
-[19:27:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3376ms behind, skipping 67 tick(s)
-[19:31:29] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:31:29] [Server thread/INFO]: H3LL0_K1TTY left the game
-[19:31:33] [Server thread/INFO]: PizzaForest lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:31:33] [Server thread/INFO]: PizzaForest left the game
-[19:31:34] [Server thread/INFO]: RodgerThat lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:31:34] [Server thread/INFO]: RodgerThat left the game
-[19:31:49] [Server thread/INFO]: Stopping the server
-[19:31:49] [Server thread/INFO]: Stopping server
-[19:31:49] [Server thread/INFO]: Saving players
-[19:31:49] [Server thread/INFO]: Saving worlds
-[19:31:49] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[19:31:49] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
-[19:31:49] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
-[19:31:51] [Server Shutdown Thread/INFO]: Stopping server
-[19:31:51] [Server Shutdown Thread/INFO]: Saving players
-[19:31:51] [Server Shutdown Thread/INFO]: Saving worlds
-[19:31:51] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[19:31:51] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Nether
-[19:31:51] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/The End
+[19:27:11] [Server thread/INFO]: Starting minecraft server version 1.7.8
+[19:27:11] [Server thread/INFO]: Loading properties
+[19:27:12] [Server thread/INFO]: Default game type: ADVENTURE
+[19:27:12] [Server thread/INFO]: Generating keypair
+[19:27:12] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
+[19:27:12] [Server thread/INFO]: Preparing level "amazia"
+[19:27:12] [Server thread/INFO]: Preparing start region for level 0
+[19:27:14] [Server thread/INFO]: Preparing spawn area: 0%
+[19:27:15] [Server thread/INFO]: Preparing spawn area: 48%
+[19:27:16] [Server thread/INFO]: Preparing spawn area: 83%
+[19:27:17] [Server thread/INFO]: Done (5.040s)! For help, type "help" or "?"
+[19:27:38] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
+[19:27:38] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1185] logged in with entity id 717 at (389.2375616705599, 109.06417023990053, -35.28851460112673)
+[19:27:38] [Server thread/INFO]: H3LL0_K1TTY joined the game
+[19:29:24] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Survival Mode]
+[19:29:32] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Creative Mode]
+[19:29:38] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Survival Mode]
+[19:30:09] [Server thread/INFO]: H3LL0_K1TTY fell from a high place
+[19:34:40] [Server thread/INFO]: H3LL0_K1TTY fell from a high place
+[19:35:42] [Server thread/INFO]: H3LL0_K1TTY fell from a high place
+[19:42:28] [Server thread/INFO]: H3LL0_K1TTY tried to swim in lava
+[19:58:25] [Server thread/INFO]: H3LL0_K1TTY tried to swim in lava
+[20:00:01] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Adventure Mode]
+[20:05:57] [Server thread/INFO]: H3LL0_K1TTY tried to swim in lava
+[20:06:53] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Survival Mode]
+[20:08:22] [Server thread/INFO]: H3LL0_K1TTY lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Broken pipe], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:08:22] [Server thread/INFO]: H3LL0_K1TTY left the game
+[20:16:15] [User Authenticator #2/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
+[20:16:15] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1338] logged in with entity id 939965 at (-4.405264888115105, 67.0, -30.488855849425775)
+[20:16:15] [Server thread/INFO]: H3LL0_K1TTY joined the game
+[20:17:33] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Creative Mode]
+[21:20:41] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:20:41] [Server thread/INFO]: H3LL0_K1TTY left the game
+[21:21:14] [Server thread/INFO]: Stopping the server
+[21:21:14] [Server thread/INFO]: Stopping server
+[21:21:14] [Server thread/INFO]: Saving players
+[21:21:14] [Server thread/INFO]: Saving worlds
+[21:21:14] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[21:21:14] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
+[21:21:14] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
+[21:21:15] [Server Shutdown Thread/INFO]: Stopping server
+[21:21:15] [Server Shutdown Thread/INFO]: Saving players
+[21:21:15] [Server Shutdown Thread/INFO]: Saving worlds
+[21:21:15] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
