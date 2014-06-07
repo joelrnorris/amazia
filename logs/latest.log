@@ -1,24 +1,57 @@
-[17:31:25] [Server thread/INFO]: Starting minecraft server version 1.7.8
-[17:31:25] [Server thread/INFO]: Loading properties
-[17:31:25] [Server thread/INFO]: Default game type: ADVENTURE
-[17:31:25] [Server thread/INFO]: Generating keypair
-[17:31:25] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
-[17:31:25] [Server thread/INFO]: Preparing level "amazia"
-[17:31:26] [Server thread/INFO]: Preparing start region for level 0
-[17:31:27] [Server thread/INFO]: Preparing spawn area: 0%
-[17:31:28] [Server thread/INFO]: Preparing spawn area: 42%
-[17:31:29] [Server thread/INFO]: Preparing spawn area: 77%
-[17:31:30] [Server thread/INFO]: Done (4.081s)! For help, type "help" or "?"
-[17:41:49] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
-[17:41:49] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1096] logged in with entity id 609 at (927.3601115084753, 87.0, -555.242912372608)
-[17:41:49] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[17:41:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2285ms behind, skipping 45 tick(s)
-[18:07:57] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:07:57] [Server thread/INFO]: H3LL0_K1TTY left the game
-[18:09:28] [Server thread/INFO]: Stopping the server
-[18:09:28] [Server thread/INFO]: Stopping server
-[18:09:28] [Server thread/INFO]: Saving players
-[18:09:28] [Server thread/INFO]: Saving worlds
-[18:09:28] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[18:09:28] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
-[18:09:28] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
+[10:44:33] [Server thread/INFO]: Starting minecraft server version 1.7.8
+[10:44:33] [Server thread/INFO]: Loading properties
+[10:44:33] [Server thread/INFO]: Default game type: ADVENTURE
+[10:44:33] [Server thread/INFO]: Generating keypair
+[10:44:33] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
+[10:44:34] [Server thread/INFO]: Preparing level "amazia"
+[10:44:34] [Server thread/INFO]: Preparing start region for level 0
+[10:44:36] [Server thread/INFO]: Preparing spawn area: 0%
+[10:44:37] [Server thread/INFO]: Preparing spawn area: 2%
+[10:44:38] [Server thread/INFO]: Preparing spawn area: 4%
+[10:44:39] [Server thread/INFO]: Preparing spawn area: 6%
+[10:44:41] [Server thread/INFO]: Preparing spawn area: 8%
+[10:44:42] [Server thread/INFO]: Preparing spawn area: 11%
+[10:44:43] [Server thread/INFO]: Preparing spawn area: 13%
+[10:44:44] [Server thread/INFO]: Preparing spawn area: 14%
+[10:44:45] [Server thread/INFO]: Preparing spawn area: 16%
+[10:44:46] [Server thread/INFO]: Preparing spawn area: 16%
+[10:44:47] [Server thread/INFO]: Preparing spawn area: 20%
+[10:44:48] [Server thread/INFO]: Preparing spawn area: 26%
+[10:44:49] [Server thread/INFO]: Preparing spawn area: 29%
+[10:44:50] [Server thread/INFO]: Preparing spawn area: 32%
+[10:44:51] [Server thread/INFO]: Preparing spawn area: 36%
+[10:44:52] [Server thread/INFO]: Preparing spawn area: 38%
+[10:44:53] [Server thread/INFO]: Preparing spawn area: 42%
+[10:44:54] [Server thread/INFO]: Preparing spawn area: 46%
+[10:44:55] [Server thread/INFO]: Preparing spawn area: 48%
+[10:44:56] [Server thread/INFO]: Preparing spawn area: 52%
+[10:44:58] [Server thread/INFO]: Preparing spawn area: 54%
+[10:44:59] [Server thread/INFO]: Preparing spawn area: 55%
+[10:45:00] [Server thread/INFO]: Preparing spawn area: 56%
+[10:45:01] [Server thread/INFO]: Preparing spawn area: 58%
+[10:45:02] [Server thread/INFO]: Preparing spawn area: 60%
+[10:45:03] [Server thread/INFO]: Preparing spawn area: 66%
+[10:45:04] [Server thread/INFO]: Preparing spawn area: 74%
+[10:45:05] [Server thread/INFO]: Preparing spawn area: 91%
+[10:45:06] [Server thread/INFO]: Preparing spawn area: 95%
+[10:45:07] [Server thread/INFO]: Done (32.880s)! For help, type "help" or "?"
+[10:47:16] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
+[10:47:17] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.219:1124] logged in with entity id 593 at (1105.3361013300441, 64.0, -634.9250000119209)
+[10:47:17] [Server thread/INFO]: H3LL0_K1TTY joined the game
+[10:47:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2056ms behind, skipping 41 tick(s)
+[11:11:33] [User Authenticator #2/INFO]: UUID of player RodgerThat is 27ed66a2-99c1-4cd1-bcc4-7d109bf4ffaa
+[11:11:33] [Server thread/INFO]: RodgerThat[/192.168.1.175:51930] logged in with entity id 505175 at (398.87999558648056, 15.499897062003315, -32.558384264050424)
+[11:11:33] [Server thread/INFO]: RodgerThat joined the game
+[11:11:59] [Server thread/INFO]: [H3LL0_K1TTY: Teleported RodgerThat to H3LL0_K1TTY]
+[12:07:09] [Server thread/INFO]: RodgerThat lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:07:09] [Server thread/INFO]: RodgerThat left the game
+[12:07:54] [Server thread/INFO]: Kicked H3LL0_K1TTY from the game
+[12:07:54] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Kicked by an operator.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:07:54] [Server thread/INFO]: H3LL0_K1TTY left the game
+[12:08:04] [Server thread/INFO]: Stopping the server
+[12:08:04] [Server thread/INFO]: Stopping server
+[12:08:04] [Server thread/INFO]: Saving players
+[12:08:04] [Server thread/INFO]: Saving worlds
+[12:08:04] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
+[12:08:04] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
+[12:08:04] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
