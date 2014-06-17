@@ -1,33 +1,35 @@
-[15:58:27] [Server thread/INFO]: Starting minecraft server version 1.7.8
-[15:58:27] [Server thread/INFO]: Loading properties
-[15:58:27] [Server thread/INFO]: Default game type: ADVENTURE
-[15:58:27] [Server thread/INFO]: Generating keypair
-[15:58:27] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
-[15:58:27] [Server thread/INFO]: Preparing level "amazia"
-[15:58:27] [Server thread/INFO]: Preparing start region for level 0
-[15:58:28] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:29] [Server thread/INFO]: Preparing spawn area: 45%
-[15:58:30] [Server thread/INFO]: Preparing spawn area: 77%
-[15:58:31] [Server thread/INFO]: Done (4.055s)! For help, type "help" or "?"
-[15:59:55] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
-[15:59:55] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.185:49183] logged in with entity id 554 at (-48.4529931496581, 79.0, 336.40293789370173)
-[15:59:55] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[15:59:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2544ms behind, skipping 50 tick(s)
-[16:34:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9750ms behind, skipping 195 tick(s)
-[16:35:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2032ms behind, skipping 40 tick(s)
-[17:38:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2048ms behind, skipping 40 tick(s)
-[19:39:50] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:39:50] [Server thread/INFO]: H3LL0_K1TTY left the game
-[19:40:59] [Server thread/INFO]: Stopping the server
-[19:40:59] [Server thread/INFO]: Stopping server
-[19:40:59] [Server thread/INFO]: Saving players
-[19:40:59] [Server thread/INFO]: Saving worlds
-[19:40:59] [Server thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[19:40:59] [Server thread/INFO]: Saving chunks for level 'amazia'/Nether
-[19:40:59] [Server thread/INFO]: Saving chunks for level 'amazia'/The End
-[19:41:00] [Server Shutdown Thread/INFO]: Stopping server
-[19:41:00] [Server Shutdown Thread/INFO]: Saving players
-[19:41:00] [Server Shutdown Thread/INFO]: Saving worlds
-[19:41:00] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Overworld
-[19:41:00] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/Nether
-[19:41:00] [Server Shutdown Thread/INFO]: Saving chunks for level 'amazia'/The End
+[09:21:47] [Server thread/INFO]: Starting minecraft server version 1.7.8
+[09:21:47] [Server thread/INFO]: Loading properties
+[09:21:47] [Server thread/INFO]: Default game type: SURVIVAL
+[09:21:47] [Server thread/INFO]: Generating keypair
+[09:21:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:21:51] [Server thread/INFO]: Preparing level "world"
+[09:21:51] [Server thread/INFO]: Preparing start region for level 0
+[09:21:52] [Server thread/INFO]: Preparing spawn area: 4%
+[09:21:53] [Server thread/INFO]: Preparing spawn area: 13%
+[09:21:54] [Server thread/INFO]: Preparing spawn area: 24%
+[09:21:55] [Server thread/INFO]: Preparing spawn area: 32%
+[09:21:56] [Server thread/INFO]: Preparing spawn area: 33%
+[09:21:57] [Server thread/INFO]: Preparing spawn area: 37%
+[09:21:58] [Server thread/INFO]: Preparing spawn area: 46%
+[09:22:00] [Server thread/INFO]: Preparing spawn area: 58%
+[09:22:01] [Server thread/INFO]: Preparing spawn area: 70%
+[09:22:02] [Server thread/INFO]: Preparing spawn area: 92%
+[09:22:02] [Server thread/INFO]: Done (11.883s)! For help, type "help" or "?"
+[13:10:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2279ms behind, skipping 45 tick(s)
+[13:10:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3590ms behind, skipping 71 tick(s)
+[13:10:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8521ms behind, skipping 170 tick(s)
+[13:11:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4794ms behind, skipping 95 tick(s)
+[16:17:45] [Server thread/INFO]: Stopping the server
+[16:17:45] [Server thread/INFO]: Stopping server
+[16:17:45] [Server thread/INFO]: Saving players
+[16:17:45] [Server thread/INFO]: Saving worlds
+[16:17:45] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:17:45] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[16:17:45] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[16:17:46] [Server Shutdown Thread/INFO]: Stopping server
+[16:17:46] [Server Shutdown Thread/INFO]: Saving players
+[16:17:46] [Server Shutdown Thread/INFO]: Saving worlds
+[16:17:46] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:17:46] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Nether
+[16:17:46] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/The End
