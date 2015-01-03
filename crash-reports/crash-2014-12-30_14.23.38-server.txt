@@ -1,0 +1,115 @@
+---- Minecraft Crash Report ----
+// You're mean.
+
+Time: 12/30/14 2:23 PM
+Description: Exception in server tick loop
+
+java.lang.NoClassDefFoundError: Lreifnsk/minimap/ReiMinimap;
+	at java.lang.Class.getDeclaredFields0(Native Method)
+	at java.lang.Class.privateGetDeclaredFields(Class.java:2348)
+	at java.lang.Class.getDeclaredField(Class.java:1916)
+	at cpw.mods.fml.common.FMLModContainer.parseSimpleFieldAnnotation(FMLModContainer.java:384)
+	at cpw.mods.fml.common.FMLModContainer.processFieldAnnotations(FMLModContainer.java:338)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:493)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:208)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:187)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:118)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:492)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:314)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:117)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+Caused by: java.lang.ClassNotFoundException: reifnsk.minimap.ReiMinimap
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:247)
+	... 32 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/IResourceManagerReloadListener
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClassCond(ClassLoader.java:637)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:621)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+	... 34 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.IResourceManagerReloadListener
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:247)
+	... 39 more
+Caused by: java.lang.NullPointerException
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Mac OS X (x86_64) version 10.6.8
+	Java Version: 1.6.0_65, Apple Inc.
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Apple Inc.
+	Memory: 2000355928 bytes (1907 MB) / 2143158272 bytes (2043 MB) up to 2143158272 bytes (2043 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx2G
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.85.1277 Minecraft Forge 10.13.2.1277 39 mods loaded, 39 mods active
+	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed
+	FML{7.10.85.1277} [Forge Mod Loader] (forge-1.7.10-10.13.2.1277-universal.jar) Unloaded->Constructed
+	Forge{10.13.2.1277} [Minecraft Forge] (forge-1.7.10-10.13.2.1277-universal.jar) Unloaded->Constructed
+	CodeChickenCore{1.0.2.9} [CodeChicken Core] (minecraft.jar) Unloaded->Constructed
+	NotEnoughItems{1.0.2.15} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.2.15-universal.jar) Unloaded->Constructed
+	DamageIndicatorsMod{3.2.0} [Damage Indicators] ([1.7.10]DamageIndicatorsMod-3.2.0.jar) Unloaded->Constructed
+	Baubles{1.0.1.8} [Baubles] (Baubles-1.7.10-1.0.1.8.jar) Unloaded->Constructed
+	Enchiridion{1.1} [Enchiridion] (Enchiridion-1.7.X-1.2b.jar) Unloaded->Constructed
+	adventurersamulets{1.7.10-1.5.0b} [Adventurer's Amulets] (AdventurersAmulets-1.7.10-1.5.0b.jar) Unloaded->Constructed
+	BiblioCraft{1.9.0} [BiblioCraft] (BiblioCraft[v1.9.0][MC1.7.10].jar) Unloaded->Constructed
+	butterflymania{1.1.2} [Butterfly Mania] (butterflymania-1.7.10-1.1.2.jar) Unloaded->Constructed
+	CarpentersBlocks{3.3.1} [Carpenter's Blocks] (Carpenter's Blocks v3.3.1 - MC 1.7.10.jar) Unloaded->Constructed
+	ComputerCraft{1.65} [ComputerCraft] (ComputerCraft1.65.jar) Unloaded->Constructed
+	DragonMounts{r41-1.7.10} [Dragon Mounts] (DragonMounts-r41-1.7.10.jar) Unloaded->Constructed
+	Emotes{1.0} [Emotes] (Emotes 1.0.jar) Unloaded->Constructed
+	ftea{1.4c} [Flower Tea] (Flower Tea v1.4c [1.7.10].jar) Unloaded->Constructed
+	flowercraftmod{1.9} [Flowercraft] (Flowercraftmod 1.8 - 1.7.10 Forge.jar) Unloaded->Constructed
+	fossil{1.7.10 Build 7.0.1} [Fossils and Archeology Revival] (Fossils_Archeology_Revival-1.7.10_Build-7.0.1.jar) Unloaded->Constructed
+	Growthcraft{2.1.0a} [Growthcraft] (growthcraft-core-1.7.10-2.1.0a.jar) Unloaded->Constructed
+	Growthcraft|Cellar{2.1.0a} [Growthcraft Cellar] (growthcraft-cellar-1.7.10-2.1.0a.jar) Unloaded->Constructed
+	Growthcraft|Apples{2.1.0} [Growthcraft Apples] (growthcraft-apples-1.7.10-2.1.0.jar) Unloaded->Constructed
+	Growthcraft|Bamboo{2.1.0} [Growthcraft Bamboo] (growthcraft-bamboo-1.7.10-2.1.0.jar) Unloaded->Constructed
+	Growthcraft|Bees{2.1.0} [Growthcraft Bees] (growthcraft-bees-1.7.10-2.1.0.jar) Unloaded->Constructed
+	Growthcraft|Fishtrap{2.1.0a} [Growthcraft Fishtrap] (growthcraft-fishtrap-1.7.10-2.1.0a.jar) Unloaded->Constructed
+	Growthcraft|Grapes{2.1.0} [Growthcraft Grapes] (growthcraft-grapes-1.7.10-2.1.0.jar) Unloaded->Constructed
+	Growthcraft|Hops{2.1.0} [Growthcraft Hops] (growthcraft-hops-1.7.10-2.1.0.jar) Unloaded->Constructed
+	Growthcraft|Rice{2.1.0a} [Growthcraft Rice] (growthcraft-rice-1.7.10-2.1.0a.jar) Unloaded->Constructed
+	reaper_lantern{1.44} [Lantern mod] (Lantern1.44[1.7.10].jar) Unloaded->Constructed
+	MagicWands{1.1.1} [MagicWands] (MagicWands-1.1.1(1.7.10).jar) Unloaded->Constructed
+	radixcore{1.3.4} [RadixCore] (RadixCore-1.7.10-1.3.4-universal.jar) Unloaded->Constructed
+	mca{4.1.5} [Minecraft Comes Alive] (MCA-1.7.10-4.1.5-universal.jar) Unloaded->Constructed
+	cfm{3.3.6} [§6MrCrayfish's Furniture Mod] (MrCrayfishFurnitureModv3.3.6(1.7.10).jar) Unloaded->Constructed
+	musiccraft{2.9.8.1} [MusicCraft] (musiccraft-2.9.8.1.jar) Unloaded->Constructed
+	rainbowcraft{1.2} [RainbowCraft] (RainbowCraft 1.2.4.jar) Unloaded->Constructed
+	ReiMinimap{1.7.10} [Rei's Minimap] (Reis-Minimap-Mod-1.7.10.jar) Unloaded
+	kitchen{1.2.3} [The Kitchen Mod] (TheKitchenMod-1.7.10-1.2.3.jar) Unloaded
+	TooMuchTNT{2.9} [TooMuchTNT] (TooMuchTNT v2.9.jar) Unloaded
+	WaterGun{1.7.10} [Water Gun] (WaterGuns-1.7.10.jar) Unloaded
+	zoommod{1.2} [zoommod] (ZoomMod-1.2_1.7.10.jar) Unloaded
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
