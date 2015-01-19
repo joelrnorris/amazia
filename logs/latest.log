@@ -1,37 +1,67 @@
-[06:28:08] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[06:28:08] [Server thread/INFO]: Loading properties
-[06:28:08] [Server thread/INFO]: Default game type: SURVIVAL
-[06:28:08] [Server thread/INFO]: Generating keypair
-[06:28:09] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
-[06:28:09] [Server thread/INFO]: Preparing level "world"
-[06:28:09] [Server thread/INFO]: Preparing start region for level 0
-[06:28:10] [Server thread/INFO]: Preparing spawn area: 9%
-[06:28:11] [Server thread/INFO]: Preparing spawn area: 48%
-[06:28:12] [Server thread/INFO]: Preparing spawn area: 74%
-[06:28:13] [Server thread/INFO]: Done (3.945s)! For help, type "help" or "?"
-[06:30:39] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
-[06:30:40] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.147:39382] logged in with entity id 274 at (2633.132291806789, 70.0, 901.6327210537992)
-[06:30:40] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[06:30:55] [Server thread/INFO]: [Server] WELCOME TO AMAZIA POOFY PANTS!!!
-[06:37:12] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[06:38:03] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Survival Mode]
-[06:40:57] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Creative Mode]
-[06:46:27] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Survival Mode]
-[06:47:11] [Server thread/INFO]: H3LL0_K1TTY fell from a high place
-[06:47:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3113ms behind, skipping 62 tick(s)
-[06:47:57] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Creative Mode]
-[06:50:43] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
-[07:10:53] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[07:10:53] [Server thread/INFO]: H3LL0_K1TTY left the game
-[07:11:50] [User Authenticator #2/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
-[07:11:50] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.147:39598] logged in with entity id 64498 at (263.011648721182, 134.0, 593.7360034866603)
-[07:11:50] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[09:28:26] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[09:28:26] [Server thread/INFO]: H3LL0_K1TTY left the game
-[09:47:34] [Server thread/INFO]: Stopping the server
-[09:47:34] [Server thread/INFO]: Stopping server
-[09:47:34] [Server thread/INFO]: Saving players
-[09:47:34] [Server thread/INFO]: Saving worlds
-[09:47:34] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[09:47:34] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[09:47:34] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[17:37:06] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[17:37:06] [Server thread/INFO]: Loading properties
+[17:37:06] [Server thread/INFO]: Default game type: SURVIVAL
+[17:37:06] [Server thread/INFO]: Generating keypair
+[17:37:06] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
+[17:37:07] [Server thread/INFO]: Preparing level "world"
+[17:37:07] [Server thread/INFO]: Preparing start region for level 0
+[17:37:08] [Server thread/INFO]: Preparing spawn area: 3%
+[17:37:09] [Server thread/INFO]: Preparing spawn area: 18%
+[17:37:10] [Server thread/INFO]: Preparing spawn area: 40%
+[17:37:11] [Server thread/INFO]: Preparing spawn area: 54%
+[17:37:12] [Server thread/INFO]: Preparing spawn area: 65%
+[17:37:13] [Server thread/INFO]: Preparing spawn area: 79%
+[17:37:14] [Server thread/INFO]: Preparing spawn area: 92%
+[17:37:14] [Server thread/INFO]: Done (7.761s)! For help, type "help" or "?"
+[19:38:54] [User Authenticator #1/INFO]: UUID of player RodgerThat is 27ed66a2-99c1-4cd1-bcc4-7d109bf4ffaa
+[19:38:54] [Server thread/INFO]: RodgerThat[/192.168.1.134:48407] logged in with entity id 275 at (2629.214180133086, 70.0, 895.4784816029035)
+[19:38:54] [Server thread/INFO]: RodgerThat joined the game
+[19:39:18] [Server thread/INFO]: RodgerThat lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:39:18] [Server thread/INFO]: RodgerThat left the game
+[20:16:38] [User Authenticator #2/INFO]: UUID of player RodgerThat is 27ed66a2-99c1-4cd1-bcc4-7d109bf4ffaa
+[20:16:38] [Server thread/INFO]: RodgerThat[/192.168.1.134:48691] logged in with entity id 732 at (2645.7212933333, 79.9890921293264, 895.0598760567907)
+[20:16:38] [Server thread/INFO]: RodgerThat joined the game
+[20:17:27] [User Authenticator #3/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
+[20:17:27] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.147:36543] logged in with entity id 2084 at (258.10832378934276, 145.16873924796903, 613.2102627245193)
+[20:17:27] [Server thread/INFO]: H3LL0_K1TTY joined the game
+[20:17:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3672ms behind, skipping 73 tick(s)
+[20:17:51] [Server thread/INFO]: [H3LL0_K1TTY: Teleported H3LL0_K1TTY to RodgerThat]
+[20:20:31] [Server thread/INFO]: [RodgerThat: Set own game mode to Creative Mode]
+[20:20:34] [Server thread/INFO]: [RodgerThat: Set own game mode to Survival Mode]
+[20:20:49] [Server thread/INFO]: [RodgerThat: Set own game mode to Creative Mode]
+[20:21:18] [Server thread/INFO]: [RodgerThat: Set own game mode to Survival Mode]
+[20:25:14] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 0]
+[20:32:08] [Server thread/INFO]: [RodgerThat: Set own game mode to Survival Mode]
+[20:32:19] [Server thread/INFO]: [RodgerThat: Set own game mode to Creative Mode]
+[20:32:36] [Server thread/INFO]: [RodgerThat: Set own game mode to Survival Mode]
+[20:33:18] [Server thread/INFO]: RodgerThat lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:33:18] [Server thread/INFO]: RodgerThat left the game
+[20:33:40] [Server thread/INFO]: --- Showing help page 3 of 7 (/help <page>) ---
+[20:33:40] [Server thread/INFO]: /help [page|command name]
+[20:33:40] [Server thread/INFO]: /kick <player> [reason ...]
+[20:33:40] [Server thread/INFO]: /kill
+[20:33:40] [Server thread/INFO]: /list
+[20:33:40] [Server thread/INFO]: /me <action ...>
+[20:33:40] [Server thread/INFO]: /list
+[20:33:40] [Server thread/INFO]: /op <player>
+[20:34:00] [Server thread/INFO]: Kicked H3LL0_K1TTY from the game: '"TIME FOR BED!!! ZZZZZZZZZZZZZZZZZZZZ"'
+[20:34:00] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='"TIME FOR BED!!! ZZZZZZZZZZZZZZZZZZZZ"', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:34:00] [Server thread/INFO]: H3LL0_K1TTY left the game
+[20:34:39] [Server thread/INFO]: That player cannot be found
+[20:34:47] [User Authenticator #4/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
+[20:34:47] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.147:36547] logged in with entity id 29573 at (2626.243240281898, 63.40667451620019, 1017.8895564062826)
+[20:34:47] [Server thread/INFO]: H3LL0_K1TTY joined the game
+[20:35:29] [Server thread/INFO]: Kicked H3LL0_K1TTY from the game: '"GET OFF THE SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"'
+[20:35:29] [Server thread/INFO]: H3LL0_K1TTY lost connection: TextComponent{text='"GET OFF THE SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:35:29] [Server thread/INFO]: H3LL0_K1TTY left the game
+[20:35:35] [Server thread/INFO]: Stopping the server
+[20:35:35] [Server thread/INFO]: Stopping server
+[20:35:35] [Server thread/INFO]: Saving players
+[20:35:35] [Server thread/INFO]: Saving worlds
+[20:35:35] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[20:35:36] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[20:35:36] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[20:35:36] [Server Shutdown Thread/INFO]: Stopping server
+[20:35:36] [Server Shutdown Thread/INFO]: Saving players
+[20:35:36] [Server Shutdown Thread/INFO]: Saving worlds
+[20:35:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
