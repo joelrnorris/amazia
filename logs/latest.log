@@ -1,36 +1,37 @@
-[10:16:59] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[10:16:59] [Server thread/INFO]: Loading properties
-[10:16:59] [Server thread/INFO]: Default game type: SURVIVAL
-[10:16:59] [Server thread/INFO]: Generating keypair
-[10:16:59] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
-[10:17:00] [Server thread/INFO]: Preparing level "world"
-[10:17:00] [Server thread/INFO]: Preparing start region for level 0
-[10:17:01] [Server thread/INFO]: Preparing spawn area: 13%
-[10:17:02] [Server thread/INFO]: Preparing spawn area: 48%
-[10:17:03] [Server thread/INFO]: Preparing spawn area: 74%
-[10:17:03] [Server thread/INFO]: Done (3.737s)! For help, type "help" or "?"
-[10:17:35] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
-[10:17:35] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.137:58333] logged in with entity id 276 at (2682.979796657467, 51.0, 1026.6945160600344)
-[10:17:35] [Server thread/INFO]: H3LL0_K1TTY joined the game
-[10:17:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2308ms behind, skipping 46 tick(s)
-[10:17:58] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Adventure Mode]
-[10:17:59] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 30000]
-[10:18:02] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Survival Mode]
-[10:18:03] [Server thread/INFO]: [H3LL0_K1TTY: Set own game mode to Creative Mode]
-[10:22:56] [Server thread/INFO]: [H3LL0_K1TTY: Toggled downfall]
-[10:23:09] [Server thread/INFO]: [H3LL0_K1TTY: Toggled downfall]
-[10:23:42] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 54000]
-[10:29:48] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 78000]
-[10:38:05] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 102000]
-[10:41:21] [Server thread/INFO]: <H3LL0_K1TTY> dsfsjnm jdcxujedriuotguierdsiurfdddddddddddddddddddddddddewlkiufkjmn5rgm,dskjifcyhbrjenmkawlllll2,1k
-[10:47:00] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 126000]
-[10:51:20] [Server thread/INFO]: [H3LL0_K1TTY: Toggled downfall]
-[10:56:31] [Server thread/INFO]: H3LL0_K1TTY lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[10:56:31] [Server thread/INFO]: H3LL0_K1TTY left the game
-[15:38:26] [Server thread/INFO]: Stopping the server
-[15:38:26] [Server thread/INFO]: Stopping server
-[15:38:26] [Server thread/INFO]: Saving players
-[15:38:26] [Server thread/INFO]: Saving worlds
-[15:38:26] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[15:38:26] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[15:38:26] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[10:13:57] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[10:13:57] [Server thread/INFO]: Loading properties
+[10:13:57] [Server thread/INFO]: Default game type: SURVIVAL
+[10:13:57] [Server thread/INFO]: Generating keypair
+[10:13:57] [Server thread/INFO]: Starting Minecraft server on 192.168.1.185:25565
+[10:13:57] [Server thread/INFO]: Preparing level "world"
+[10:13:57] [Server thread/INFO]: Preparing start region for level 0
+[10:13:58] [Server thread/INFO]: Preparing spawn area: 13%
+[10:13:59] [Server thread/INFO]: Preparing spawn area: 52%
+[10:14:00] [Server thread/INFO]: Preparing spawn area: 90%
+[10:14:01] [Server thread/INFO]: Done (3.329s)! For help, type "help" or "?"
+[10:21:32] [User Authenticator #1/INFO]: UUID of player H3LL0_K1TTY is 95957e6b-846f-4e48-ab21-7e02bf822f9d
+[10:21:32] [Server thread/INFO]: H3LL0_K1TTY[/192.168.1.137:44286] logged in with entity id 275 at (2392.876485049667, 64.0, 1023.9146882308463)
+[10:21:32] [Server thread/INFO]: H3LL0_K1TTY joined the game
+[10:27:36] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 510000]
+[10:32:17] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 534000]
+[10:57:59] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 582000]
+[11:00:02] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 618000]
+[11:00:34] [Server thread/INFO]: [H3LL0_K1TTY: Given [tile.null.name] * 64 to H3LL0_K1TTY]
+[11:01:33] [Server thread/INFO]: [H3LL0_K1TTY: Given [Diamond Helmet] * 1 to H3LL0_K1TTY]
+[11:01:34] [Server thread/INFO]: [H3LL0_K1TTY: Given [Diamond Chestplate] * 1 to H3LL0_K1TTY]
+[11:01:34] [Server thread/INFO]: [H3LL0_K1TTY: Given [Diamond Boots] * 1 to H3LL0_K1TTY]
+[11:01:35] [Server thread/INFO]: [H3LL0_K1TTY: Given [Diamond Leggings] * 1 to H3LL0_K1TTY]
+[11:19:55] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 654000]
+[11:21:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4071ms behind, skipping 81 tick(s)
+[11:25:57] [Server thread/INFO]: [H3LL0_K1TTY: Given [Dragon Egg] * 64 to H3LL0_K1TTY]
+[11:27:21] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 678000]
+[11:32:39] [Server thread/INFO]: [H3LL0_K1TTY: Set the time to 702000]
+[11:33:37] [Server thread/INFO]: H3LL0_K1TTY lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[11:33:37] [Server thread/INFO]: H3LL0_K1TTY left the game
+[19:15:08] [Server thread/INFO]: Stopping the server
+[19:15:08] [Server thread/INFO]: Stopping server
+[19:15:08] [Server thread/INFO]: Saving players
+[19:15:08] [Server thread/INFO]: Saving worlds
+[19:15:08] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:15:08] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[19:15:08] [Server thread/INFO]: Saving chunks for level 'world'/The End
